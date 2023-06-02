@@ -8,7 +8,7 @@ or
 - git config --global user.email "Your email"
 - git init
 - git remote add origin https://github.com/gdm12355/learn.git
-- git pull
+- git pull origin master
 - 
 - git add test/test.txt 
 - git commit -m 'write details'
