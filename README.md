@@ -1,9 +1,12 @@
 # learn
 just test
 - 
-- just git clone https://github.com/gdm12355/learn.git
+- just: git clone https://github.com/gdm12355/learn.git
+- then: git brash the file:learn
 
 or
+- create file learn
+- git brash learn
 - git config --global user.name "Your name"
 - git config --global user.email "Your email"
 - git init
